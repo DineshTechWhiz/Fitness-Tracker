@@ -17,6 +17,3 @@ Homepage
 Create user
 ![fitkit_user](https://user-images.githubusercontent.com/4997491/117525054-3911cb00-afde-11eb-97b5-a468f17935de.JPG)
 
-
-404 Error page
-![error](https://user-images.githubusercontent.com/4997491/117525227-dcfb7680-afde-11eb-9434-a8f93c5b76d7.JPG)
