@@ -8,11 +8,6 @@ This is a Fitness Tracker built using MERN stack. It facilitates one to add user
 
 👉 [Link](https://serene-volhard-1843cb.netlify.app/)
 
-Backend Heroku Link-https://fitness-tracker-mern.herokuapp.com/
-
-[Users](https://fitness-tracker-mern.herokuapp.com/users)
-
-[Exercises](https://fitness-tracker-mern.herokuapp.com/exercises)
 
 ## Screenshots
 
@@ -30,29 +25,3 @@ Fitness Activity Dashboard
 
 404 Error page
 ![error](https://user-images.githubusercontent.com/4997491/117525227-dcfb7680-afde-11eb-9434-a8f93c5b76d7.JPG)
-
-## Installation
-
-Step 1
-🍴 Fork this repo!
-
-Step 2
-👯 Clone this repo to your local machine using https://github.com/DineshTechWhiz
-
-Step 3
-HACK AWAY! 🔨🔨🔨
-
-## Available Scripts
-
-In the project directory, you can run:
-
-`npm start`
-
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-## LICENSE
-
-Apache License.
-
-Made with ❤
