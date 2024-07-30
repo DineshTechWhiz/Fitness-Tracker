@@ -6,7 +6,7 @@ This is a Fitness Tracker built using MERN stack. It facilitates one to add user
 
 ## Demo
 
-👉 [Link](https://serene-volhard-1843cb.netlify.app/)
+👉 [Demo Link](https://serene-volhard-1843cb.netlify.app/)
 
 
 ## Screenshots
